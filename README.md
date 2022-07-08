@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ### hi, i'm welkinbai.
-- 🔭 I’m currently working on ShangHai Leyan Science and Technology Co., Ltd
-- 🌱 I’m currently learning how to manage team
-- 💬 You can ask me about any java question
-- 📫 How to reach me: xwmbxx@126.com
-- ✨ My personal homepage: https://welkinbai.github.io/
-
+- 🔭 I’m currently working on NodeReal([https://nodereal.io/](https://nodereal.io/))
+- 🌱 I’m currently touching and learning Web3, this is my mirror address:[https://mirror.xyz/welkinbai.eth](https://mirror.xyz/welkinbai.eth)
+- 💬 You can ask me about any java question and currently I am learning Golang
+- 📫 How to reach me: [xwmbxx@126.com](mailto:xwmbxx@126.com)
+- ✨ My personal homepage: https://www.welkinbai.com
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=welkinbai&color=blueviolet&style=flat-square">
