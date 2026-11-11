@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### hi, i'm welkinbai.
 - 🌱 I’m currently touching and learning Web3, this is my mirror address:[https://mirror.xyz/welkinbai.eth](https://mirror.xyz/welkinbai.eth)
 - 💬 You can ask me about any java question and currently I am learning Golang
-- 📫 How to reach me: [xwmbxx@126.com](mailto:xwmbxx@126.com)
 - ✨ My personal homepage: https://www.welkinbai.com
 <br>
 <br>
